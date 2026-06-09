@@ -1,0 +1,5 @@
+This is a TCP socket programming experiment.
+We will divide the file into random chunks.
+The server reverses every chunk.
+The client rebuilds the final reversed file.
+Network programming is very interesting.
